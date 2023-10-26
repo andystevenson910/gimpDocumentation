@@ -67,5 +67,8 @@ This can be adjusted like hue and saturation, selecting a single color or the ma
 In this example we made Blue's lightness low, and reds high 
 ![](Images/LightnessExample.PNG)
 
+### Reset
+The bottom reset button resets all colors, while the reset color button resets only the selected color 
+
 ## Color theory
 To truely understand these tools we suggest looking into color theory. A great place to start is https://en.wikipedia.org/wiki/Color_theory 
