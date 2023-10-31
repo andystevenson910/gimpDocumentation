@@ -10,18 +10,18 @@ Hue is typically used to change a colors position on a color pallet for artists 
 Saturation has to do with how dull or clear an image is. A low saturation maxes the image dull, while high saturation is more clear.
 
 ## How to access the Hue-Saturation Tool
-On your top toolbar, click the Color tab 
 
-![Colors Menu](images/colorButton.png)
+On your top toolbar, click the Color tab:
+
+![Colors Menu](../images/colorButton.png)
 
 Then select Hue-Saturation... to open the tool.
 
-![Hue-Saturation button](images/hue-saturation-button.JPG)
+![Hue-Saturation button](../images/hue-saturation-button.JPG)
 
+The tool will look like this:
 
-The tool will look like this 
-
-![Hue Tool](images/Hue-Tool.JPG)
+![Hue Tool](../images/Hue-Tool.JPG)
 
 ## Using the Tool 
 
@@ -38,18 +38,18 @@ To change the hue of a single color type, start by clicking on the circle next t
     - Y : Yellow 
 
 Here is an example of selecting the red color :
-![Select Red](images/selectRed.PNG)
+![Select Red](../images/selectRed.PNG)
 
 We can then change the Hue of red to another color. The following image will depict an example of changing the red hue.
 
-![Before Hue](images/beforeHue.PNG)
+![Before Hue](../images/beforeHue.PNG)
 *Example image before changing the red hue*
 
 You can now change the hue of red. Slide to adjust the Hue, Lightness, and/or Saturation values indicated under the Adjust Select Color section. Alternatively, you can click the arrows to increment/decrement by one or click on the number and type your desired value. 
 
 > Note: the default value for hue is 0.0
 
-![After Hue](images/afterHue.PNG)
+![After Hue](../images/afterHue.PNG)
 *Example image after changing the red hue. Notice how images on the screen that had red in them now are closet to yellow. This is especially apparent on the border picture on the map of the screenshots video game.* 
 
 This will save the state of red if you chose to further adjust other colors.
@@ -61,11 +61,11 @@ In the middle of the color tool there is a Master Button. This button will chang
 Saturation like Hue can be done with all or a single color. 
 The default value for saturation is 0. As you descend in value your color will look more gray like so:
 
-![grey.PNG](images/grey.PNG)
+![grey.PNG](../images/grey.PNG)
 
 The higher the saturation, the more outstanding a color becomes:
 
-![randomSaturation.PNG](images/randomSaturation.PNG)
+![randomSaturation.PNG](../images/randomSaturation.PNG)
 
 ### Lightness
 This tool also includes lightness of a color.
@@ -75,7 +75,7 @@ This can be adjusted like hue and saturation, selecting a single color or the ma
 
 In this example we made Blue's lightness low, and reds high:
 
-![images/LightnessExample.PNG](images/LightnessExample.PNG)
+![images/LightnessExample.PNG](../images/LightnessExample.PNG)
 
 ### Reset
 The bottom reset button resets all colors, while the reset color button resets only the selected color.
