@@ -36,7 +36,7 @@ This guide provides quickstart instructions for getting started with GIMP (GNU I
 
 ### Mac
 
-1. Visit the [GIMP Downloads page](https://www.gimp.org/downloads/) and download the DMG package for Mac.
+1. Visit the [GIMP Downloads page](https://www.gimp.org/downloads/) and download the appropriate DMG package for your Mac's processor.
 2. Open the DMG package and drag the GIMP icon to your Applications folder to install GIMP.
 3. Once the installation is complete, you can launch GIMP from your Applications folder.
 
@@ -48,15 +48,6 @@ This guide provides quickstart instructions for getting started with GIMP (GNU I
 
 Check out the [official GIMP documentation](https://docs.gimp.org/2.10/en/) for more detailed instructions and tutorials.
 
-
-## Contributing
-
-We welcome contributions from the community! If you have tips, tricks, or additional information that you think would be helpful to other GIMP users, please feel free to contribute. You can do this by opening an issue or submitting a pull request.
-
-## License
-
-See GIMP's license [LICENSE](https://www.gimp.org/about/COPYING) for more information regarding its distribution and use.
-
 ## Acknowledgments
 
 We would like to thank the GIMP team for creating such a powerful and versatile image editing software. We would also like to thank all the contributors to this project for their valuable input.
@@ -67,6 +58,6 @@ This documentation is brought to you by:
 - [Zachary Harrison](https://github.com/Zachary-Harrison)
 - [Samuel Bjorkman](https://github.com/snbjorkman)
 - [Andy Stevenson](https://github.com/andystevenson910)
-- [Robert Gordon]()
+- [Robert Gordon](https://github.com/darkmono112)
 
 If you liked this, please **★Star** this repository and maybe check out some of our other stuff!
