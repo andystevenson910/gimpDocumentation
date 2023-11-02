@@ -8,7 +8,7 @@
 
 GIMP provides a variety of paint tools to help you create and modify the contents of your images. These tools include:
 
-- ![AirbrushTool.PNG](../images/AirbrushTool.PNG) [**Airbrush Tool**](AirbrushTool.md): Draws with a soft edge, simulating the effect of an airbrush.
+- ![AirbrushTool.png](../images/AirbrushTool.png) [**Airbrush Tool**](AirbrushTool.md): Draws with a soft edge, simulating the effect of an airbrush.
 - ![BucketFillTool.PNG](../images/BucketFillTool.PNG) [**Bucket Fill Tool**](BucketFillTool.md): Fills a selection with the current foreground color.
 - ![CloneTool.PNG](../images/CloneTool.PNG) [**Clone Tool**](CloneTool.md): Copies a portion of an image and paints it onto another location of an image.
 - ![EraserTool.PNG](../images/EraserTool.PNG) [**Eraser Tool**](EraserTool.md): Replaces parts of an image with a designated color or a transparent background.
