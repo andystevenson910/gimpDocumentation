@@ -1,16 +1,17 @@
 # GIMP Paint Tools Documentation
 
-Welcome to the GIMP Paint Tools Documentation. This guide will introduce you to the various paint tools available in GIMP (GNU Image Manipulation Program), a free and open-source image editing software.
+![PaintToolsOverview.png](../images/PaintToolsOverview.png)
+*This guide will introduce you to some of the above paint tools available in GIMP*
 
 ## Paint Tools Overview
 
 GIMP provides a variety of paint tools to help you create and modify the contents of your images. These tools include:
 
-- [**Airbrush Tool**](AirbrushTool.md): Allows you to draw with a soft edge, simulating the effect of an airbrush.
-- [**Bucket Fill Tool**](BucketFillTool.md): Fills a selection with the current foreground color
-- [**Clone Tool**](CloneTool.md): Allows you to copy a part of your image and paint it onto another part of your image.
-- [**Eraser Tool**](EraserTool.md): Allows you to erase parts of your image.
-- [**Smudge Tool**](SmudgeTool.md): Uses the current brush to smudge colors on the active layer or a selection.
+- ![AirbrushTool.PNG](../images/AirbrushTool.PNG) [**Airbrush Tool**](AirbrushTool.md): Draws with a soft edge, simulating the effect of an airbrush.
+- ![BucketFillTool.PNG](../images/BucketFillTool.PNG) [**Bucket Fill Tool**](BucketFillTool.md): Fills a selection with the current foreground color.
+- ![CloneTool.PNG](../images/CloneTool.PNG) [**Clone Tool**](CloneTool.md): Copies a portion of an image and paints it onto another location of an image.
+- ![EraserTool.PNG](../images/EraserTool.PNG) [**Eraser Tool**](EraserTool.md): Replaces parts of an image with a designated color or a transparent background.
+- ![SmudgeTool.PNG](../images/SmudgeTool.PNG) [**Smudge Tool**](SmudgeTool.md): Smudges colors on the active layer or a selection.
 
 ## Further Reading
 

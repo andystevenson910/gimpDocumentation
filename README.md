@@ -62,17 +62,13 @@ We chose a markdown format for our documents for its simplicity and versatility.
 
 In addition, we chose to host our documentation on GitHub due to its wide accessibility and built-in rendering capabilities. GitHub allows for easy public access, making our documentation readily available to anyone interested in learning about GIMP's tools. This is particularly beneficial for open-source projects where community contributions are encouraged.
 
-Furthermore, GitHub handles all the rendering needed for our project. Markdown files are automatically rendered to HTML on GitHub, allowing users to view the documentation directly in their web browser without needing to download or convert the files themselves. This greatly simplifies the viewing process and ensures that our documentation is accessible to users of all technical levels.
+Furthermore, GitHub handles all the rendering needed for our project. Markdown files are automatically rendered on GitHub using jekyll-commonmar HTML, allowing users to view the documentation directly in their web browser without needing to download or convert the files themselves. This greatly simplifies the viewing process and ensures that our documentation is accessible to users of all technical levels.
 
 By leveraging the features of markdown and GitHub, we aim to provide a user-friendly and accessible documentation for GIMP users.
 
 ## Experience
 
 In retrospect, we would probably include more visual aids like screenshots and diagrams in the next iteration to make the instructions even clearer. The most enjoyable part was experimenting with GIMP's tools and discovering new features. The most difficult part was ensuring that the instructions were clear and easy to understand, as GIMP is a complex software with many features. However, we believe that this documentation will be a valuable resource for GIMP users.
-
-## Acknowledgments
-
-We would like to thank the GIMP team for creating such a powerful and versatile image editing software. We would also like to thank all the contributors to this project for their valuable input.
 
 ### Authors
 

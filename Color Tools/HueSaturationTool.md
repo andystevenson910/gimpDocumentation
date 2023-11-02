@@ -42,6 +42,7 @@ To change the hue of a single color type, start by clicking on the circle next t
     - Y : Yellow 
 
 Here is an example of selecting the red color:
+
 ![Select Red](../images/selectRed.PNG)
 
 We can then change the Hue of red to another color. The following image will depict an example of changing the red hue.
@@ -54,7 +55,7 @@ You can now change the hue of red. Slide to adjust the Hue, Lightness, and/or Sa
 > Note: the default value for hue is 0.0
 
 ![After Hue](../images/afterHue.PNG)
-*Example image after changing the red hue. Notice how images on the screen that had red in them now are closet to yellow. This is especially apparent on the border picture on the map of the screenshots video game.* 
+*Example image after changing the red hue. Notice how  mages on the screen that had red in them now are closet to yellow. This is especially apparent on the border picture on the map of the screenshots video game.* 
 
 This will save the state of red if you chose to further adjust other colors.
 

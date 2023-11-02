@@ -1,6 +1,8 @@
 # GIMP Color Tools
 
-This guide will introduce you to the various color tools available in GIMP (GNU Image Manipulation Program), a free and open-source image editing software.
+![ColorToolsOverview.png](../images/ColorToolsOverview.png)
+
+*This guide will introduce you to some of the above color tools available in GIMP*
 
 ## Color Tools Overview
 
