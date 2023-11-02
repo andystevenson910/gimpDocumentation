@@ -19,33 +19,33 @@ Hover over the ![RotateTool.PNG](../images/RotateTool.PNG) `Rotate Tool` outline
 
 To make sure you're scaling the right thing, choose the correct Scale Transform:
 
-You can scale a Layer, Selection, Path, or Image. Because scaling a path is relatively rare, I won't cover it here. 
+You can scale a ![ScaleTransformLayer.png](../images/ScaleTransformLayer.png) Layer, ![ScaleTransformSelection.png](../images/ScaleTransformSelection.png) Selection, ![ScaleTransformPath.png](../images/ScaleTransformPath.png) Path, or ![ScaleTransformImage.png](../images/ScaleTransformImage.png) Image. 
+<br /> Because scaling a path is relatively rare, I won't cover it here. 
 
-This image is before scaling:
-
-![ScaleToolBeforeScaling.PNG](../images/ScaleToolBeforeScaling.PNG)
+This image is before any scaling:
+<br /> ![ScaleToolBeforeScaling.PNG](../images/ScaleToolBeforeScaling.PNG)
 
 > Note how you can type into the Scale box in the top right OR use your mouse to click on one of the boxes on the image drag the image to an approximate size. For simplicity, **I resized from 500x500 to 250x250 in the following proceeding examples**.
 
-**Image**
+### Scale Transform: ![ScaleTransformImage.png](../images/ScaleTransformImage.png) **Image**
 
 | During Scaling | After Scaling |
 |:---:|:---:|
 | ![ScaleToolDuringScalingImage.PNG](../images/ScaleToolDuringScalingImage.PNG) | ![ScaleToolAfterScalingImage.PNG](../images/ScaleToolAfterScalingImage.PNG) |
 
-**Layer**
+### Scale Transform: ![ScaleTransformLayer.png](../images/ScaleTransformLayer.png) **Layer**
 
 | During Scaling | After Scaling |
 |:---:|:---:|
 | ![ScaleToolDuringScalingLayer.PNG](../images/ScaleToolDuringScalingLayer.PNG) | ![ScaleToolAfterScalingLayer.PNG](../images/ScaleToolAfterScalingLayer.PNG) |
 
-**Selection**
+### Scale Transform: ![ScaleTransformSelection.png](../images/ScaleTransformSelection.png) **Selection**
 
 | During Scaling | After Scaling |
 |:---:|:---:|
 | ![ScaleToolDuringScalingSelection.PNG](../images/ScaleToolDuringScalingSelection.PNG) | ![ScaleToolAfterScalingSelection.PNG](../images/ScaleToolAfterScalingSelection.PNG) |
 
 
-Something strange about this is that nothing happened! That's because the selection itself was scaled, not the pixels it was selecting. Here's proof:
-
-![ScaleToolProof.PNG](../images/ScaleToolProof.PNG)
+What? Nothing happened! That's because the selection itself was scaled, not the pixels it was selecting. As proof, here's what it looks like after coloring in the selection:
+<br /> ![ScaleToolProof.PNG](../images/ScaleToolProof.PNG)
+<br /> Previously, if we tried to color in the selection, we would've re-colored the green pattern.
