@@ -33,7 +33,7 @@ The ![FuzzySelectTool.PNG](../images/FuzzySelectTool.PNG) *Fuzzy Select Tool* in
 
 - Follow the aforementioned steps to make your selection.
 - Go to the `Select` topbar menu > `Border`, then choose the width of your border and border style. 
-- Fill the border using a [Color Tool](../Color%20Tools/) of your choice ([Colorize Tool](../Color%20Tools/ColorizeTool.md) or [Bucket Fill Tool](../Paint%20Tools/BucketFillTool.md) are recommended)!
+- Fill the border using a Tool of your choice ([Colorize Tool](../Color%20Tools/ColorizeTool.md) or [Bucket Fill Tool](../Paint%20Tools/BucketFillTool.md) are recommended)!
 
 ## Tips 
 

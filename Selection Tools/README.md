@@ -1,6 +1,7 @@
 # GIMP Selection Tools
 
 ![SelectionToolsOverview.png](../images/SelectionToolsOverview.png)
+
 *This guide will introduce you to some of the above  selection tools available in GIMP*
 
 ## Selection Tools Overview

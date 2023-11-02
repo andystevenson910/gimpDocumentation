@@ -1,6 +1,7 @@
 # GIMP Paint Tools Documentation
 
 ![PaintToolsOverview.png](../images/PaintToolsOverview.png)
+
 *This guide will introduce you to some of the above paint tools available in GIMP*
 
 ## Paint Tools Overview

@@ -1,6 +1,7 @@
 # GIMP Transform Tools
 
 ![TransformToolsOverview.png](../images/TransformToolsOverview.png)
+
 *This guide will introduce you to some of the above transform tools available in GIMP*
 
 
