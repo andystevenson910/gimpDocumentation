@@ -8,7 +8,6 @@ GIMP provides a variety of other tools to help you manipulate and adjust the con
 
 - [**Text Tool**](TextTool.md): Allows you to add text to your image. You can adjust the font, size, color, and alignment of the text.
 - [**Zoom Tool**](ZoomTool.md): Allows you to zoom in and out of your image. You can adjust the zoom level using the slider or by entering a specific value.
-- [**Measure Tool**](MeasureTool.md): Allows you to measure distances and angles within your image. You can adjust the units of measurement and the position of the measurement.
 - [**Color Picker Tool**](ColorPickerTool.md): Allows you to select a color from your image or from the color wheel. You can adjust the sample size and sample merged options.
 
 ## Further Reading

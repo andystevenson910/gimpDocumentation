@@ -1,5 +1,7 @@
 # Free Select Tool
 
+*Written by Samuel Bjorkman*
+
 ## Overview
 
 The free select tool is used to create selections of irregular shape. In GIMP, a selection is a bounded region that limits where certain tools can be applied. With the free select tool, selections can be formed by drawing an outline, or by placing points to form connected line segments, or by a combination of both. 

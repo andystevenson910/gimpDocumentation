@@ -1,8 +1,11 @@
 # Using Hue-Saturation in GIMP 
 
+*Written by Robert Gordon*
+
 ## What is Hue 
 
 Hue has to do with the dominant color family for a color group. Using Hue we can change color groups en-mass and change our images look. 
+
 Hue is typically used to change a colors position on a color pallet for artists to use in their creations. 
 
 ## What is Saturation 
@@ -11,7 +14,7 @@ Saturation has to do with how dull or clear an image is. A low saturation maxes 
 
 ## How to access the Hue-Saturation Tool
 
-On your top toolbar, click the Color tab:
+On your top toolbar, click the *Colors* tab:
 
 ![Colors Menu](../images/colorButton.png)
 
@@ -26,7 +29,8 @@ The tool will look like this:
 ## Using the Tool 
 
 ### Hue
-Hue can be used in a variety of ways. We will cover the basics in this section 
+Hue can be used in a variety of ways. We will cover the basics in this section.
+
 #### Changing a single color
 To change the hue of a single color type, start by clicking on the circle next to the symbol of the color you want to change 
 * The key 
@@ -37,7 +41,7 @@ To change the hue of a single color type, start by clicking on the circle next t
     - G : Green 
     - Y : Yellow 
 
-Here is an example of selecting the red color :
+Here is an example of selecting the red color:
 ![Select Red](../images/selectRed.PNG)
 
 We can then change the Hue of red to another color. The following image will depict an example of changing the red hue.
@@ -55,9 +59,11 @@ You can now change the hue of red. Slide to adjust the Hue, Lightness, and/or Sa
 This will save the state of red if you chose to further adjust other colors.
 
 #### Changing all colors 
+
 In the middle of the color tool there is a Master Button. This button will change the hue of every color for your photos. This can be used to invert color of your images, or set a base of what you want the overall hue to be. 
 
-### Saturation     
+### Saturation    
+
 Saturation like Hue can be done with all or a single color. 
 The default value for saturation is 0. As you descend in value your color will look more gray like so:
 
@@ -68,6 +74,7 @@ The higher the saturation, the more outstanding a color becomes:
 ![randomSaturation.PNG](../images/randomSaturation.PNG)
 
 ### Lightness
+
 This tool also includes lightness of a color.
 That is how dark or bright the image will appear. 
 
@@ -78,7 +85,9 @@ In this example we made Blue's lightness low, and reds high:
 ![images/LightnessExample.PNG](../images/LightnessExample.PNG)
 
 ### Reset
+
 The bottom reset button resets all colors, while the reset color button resets only the selected color.
 
 ## Color Theory
+
 To truely understand these tools we suggest looking into color theory. A great place to start is [here](https://en.wikipedia.org/wiki/Color_theory).

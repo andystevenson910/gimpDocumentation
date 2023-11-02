@@ -8,9 +8,8 @@ GIMP provides a variety of selection tools to help you select specific areas of 
 
 - [**Fuzzy Select Tool**](FuzzySelectTool.md): Allows you to select a contiguous region based on color similarity. You can adjust the threshold to control the range of similar colors to select.
 - [**Free Select Tool**](FreeSelectTool.md): Allows you to draw freehand selection regions, or polygonal regions with straight lines.
-- [**Rectangle Select Tool**](RectangleSelectTool.md): Allows you to draw a rectangular selection region. You can adjust the size and position of the rectangle.
-- [**Ellipse Select Tool**](EllipseSelectTool.md): Allows you to draw an elliptical selection region. You can adjust the size and position of the ellipse.
-- [**Select By Color Tool**](SelectByColorTool.md): Allows you to select all pixels in an image that have a similar color to the pixel you click on.
+- [**Rectangle Select Tool**](RectangleSelectTool.md): Allows you to draw a rectangular selection region. 
+- [**Paths Tool**](PathsTool.md): Allows to create complex selections called Bézier Curves. 
 
 ## Further Reading
 
