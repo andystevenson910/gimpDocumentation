@@ -1,4 +1,5 @@
 # Using the Clone Tool in GIMP
+Section by Andrew Stevenson
 
 ## 1. Open GIMP and Your Image:
 
