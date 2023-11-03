@@ -53,7 +53,7 @@ Clones from a source layer to a target layer, aligning each cloned pixel to its 
 ### Fixed Mode
 Clones from a fixed source origin, repeating the same sample with each brushstroke regardless of brush movement.
 
-![Selecting Clone Tool](../images/FRANMODES.png)
+![Selecting Alignfment Mode](../images/FRANMODES.png)
 
 # Tips:
 - Zoom in for more precision while cloning.
