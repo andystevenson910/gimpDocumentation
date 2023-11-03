@@ -8,8 +8,10 @@
 
 ## 2. Select the Clone Tool:
 
-- In the main toolbox, locate the rubber stamp icon, which represents the Clone Tool. Click on it.
+- In the main toolbox, locate the rubber stamp icon ![Clone Icon](../images/CloneTool.PNG)
+, which represents the Clone Tool. Click on it.
 - Alternatively, you can press the shortcut key `C` to activate the Clone Tool.
+![Selecting Clone Tool](../images/CloneToolSelection.png)
 
 ## 3. Adjust the Tool Settings:
 
