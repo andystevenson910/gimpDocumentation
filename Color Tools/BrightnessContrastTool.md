@@ -69,3 +69,18 @@ Here is an image after adjust Contrast Positivly
 And negativly 
 
 ![](../images/NegativeContrast.PNG)
+
+
+### Presets 
+Presets are a way to save a contrast and Brightness for later use. To save a preset Click the + button after setting your brightness and contrast. 
+
+![](../images/PresetBrightness.PNG)
+
+Then name and save your preset by clicking ok in the popup window after setting a name 
+
+![](../images/savedBrightPreset.PNG)
+
+you then can select your preset from the preset selection dropdown for use later
+
+![](../images/PresetShowcase.PNG)
+
