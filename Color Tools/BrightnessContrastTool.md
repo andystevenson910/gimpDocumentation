@@ -45,7 +45,8 @@ To change the brightness of an image, open the tool and use the Brightness bar. 
 
 ![](../images/BrightnessBar.PNG)
 
-Here is an image before adjusting Brightness
+The Following Image is a screen shot of a users desktop while enjoying a game. We will use this as an example of editing Brightness. (Note, the screenshot has mupltiple windows open on it and Usernames have been censored with black bars).
+
 ![](../images/BeforeBrightness.PNG)
 
 And After brightness has been incresed 
@@ -58,7 +59,7 @@ To change the contrast of an image, open the tool and use the Contrast bar. Cont
 
 ![](../images/ContrastBar.PNG)
 
-Here is an Image before changing the contrast 
+The Following Image is a screen shot of a users desktop while enjoying a game. We will use this as an example of editing Contrast.  (Note, the screenshot has mupltiple windows open on it and Usernames have been censored with black bars).
 
 ![](../images/BeforeBrightness.PNG)
 
