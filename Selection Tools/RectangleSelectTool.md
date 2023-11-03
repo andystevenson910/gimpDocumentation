@@ -8,7 +8,7 @@ The ![RectangleSelectTool.PNG](../images/RectangleSelectTool.PNG) *Rectangle Sel
 
 1. On the top-barm, click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac). 
 2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar.
-    > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
+    > ${\color{yellow}\text{Note: }}$ If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
 ## 2. Find the ![RectangleSelectTool.PNG](../images/RectangleSelectTool.PNG) *Rectangle Select Tool*
 
@@ -22,14 +22,13 @@ on your image to create a rectangular selection. The ![RectangleSelectTool.PNG](
 
 - Click and drag the small squares on the corners and edges of the selection to resize it.
 - Click and drag inside the selection to move it.
-> In GIMP, when a portion of an image is selected using tools like the ![RectangleSelectTool.PNG](../images/RectangleSelectTool.PNG) *Rectangle Select Tool*, that selected area becomes the active focus for any subsequent operations. This means that any changes you make will only apply to this selected area. If you want to manipulate a different part of the image or use other tools that aren't applicable to the selected area, you'll need to deselect the current selection. To do this, navigate to the `Select` menu on the topbar and choose `None` (or press `Shift` + `Ctrl` + `A` for Windows and `Shift` + ⌘ `Cmd` + `A` for Mac). This action will remove the active selection, allowing you to freely use all of GIMP's tools and functionalities on the entire image.
+> ${\color{yellow}\text{Note: }}$ In GIMP, when a portion of an image is selected using tools like the ![RectangleSelectTool.PNG](../images/RectangleSelectTool.PNG) *Rectangle Select Tool*, that selected area becomes the active focus for any subsequent operations. This means that any changes you make will only apply to this selected area. If you want to manipulate a different part of the image or use other tools that aren't applicable to the selected area, you'll need to deselect the current selection. To do this, navigate to the `Select` menu on the topbar and choose `None` (or press `Shift` + `Ctrl` + `A` for Windows and `Shift` + ⌘ `Cmd` + `A` for Mac). This action will remove the active selection, allowing you to freely use all of GIMP's tools and functionalities on the entire image.
 
 ## 4. Manipulate your Selection
 
-If your selection needs to be removed or be a specific size, you can modify length, width, and starting location by hand:
+To use the mouse, click and dragon on the corners or edges of the boxed selection. To manipulate by value, click in the outlined boxes and modify the *Position* and *Size* values to your liking.
 
 ![RectangleSelectToolManipulateSelection.png](../images/RectangleSelectToolManipulateSelection.png)
-<br/> *To use the mouse, click and dragon on the corners or edges of the boxed selection. To manipulate by value, click in the outlined boxes and modify the **Position** and **Size** values to your liking.*
 
 Additionally, GIMP gives various options what to do with a selection like this. For instance, you can instead select everything else by using the Invert option. To do this, you need to either:
 <br />(a) press `Ctrl` + `I` for Windows or ⌘ `Cmd` + `I` for Mac 
@@ -52,12 +51,8 @@ Remember, practice makes perfect. The more you use the ![RectangleSelectTool.PNG
 
 ## Troubleshooting
 
-If you're having trouble with the ![RectangleSelectTool.PNG](../images/RectangleSelectTool.PNG) *Rectangle Select Tool*, here are some common issues and their solutions:
-
 - **Tool Not Responding**: If the tool is not responding or behaving unexpectedly, try resetting it. You can do this by going to the `Edit` menu and selecting `Preferences`. In the dialog box that appears, click on `Tool Options` and then `Reset All Tool Options`.
 
-- **Selection Disappears**: If your selection disappears when you try to use another tool, make sure you haven't accidentally deselected it. If you need to use another tool but keep your selection, go to the `Select` menu and choose `Save to Channel`. You can then reselect it later by going to the `Channels` panel and clicking on the saved selection.
+- **Selection Disappears**: Some GIMP tools disappear when you try to use another tool. If this happens, press `Ctrl` + `Z` on Windows or ⌘`Cmd` + `Z` on Mac to undo your previous action(s). If you need to use another tool but keep your selection, go to the `Select` menu and choose `Save to Channel`. You can then reselect it later by going to the `Channels` panel and clicking on the saved selection.
 
-- **Can't Move Selection**: If you're unable to move your selection, make sure your selection is in the active layer (on the right side of the screen).
-
-If you're still having trouble, consult the GIMP user manual or seek help from the GIMP community.
+If you're still having trouble, consider searching for your issue on the [GIMP forums](https://www.gimp-forum.net/) or the [GIMP subreddit](https://www.reddit.com/r/GIMP/).

@@ -16,8 +16,8 @@ Here's how to use it:
 3. Click on the area of your image that you want to select. The ![FuzzySelectTool.PNG](../images/FuzzySelectTool.PNG) *Fuzzy Select Tool* will select all pixels in your image that have a similar color to the one you clicked on. 
 4. If the selection is not accurate enough, you can adjust the threshold and feathering of the selection. 
    - The **Threshold** slider determines how similar the colors need to be to be selected. A lower value will select colors that are very similar to the one you clicked on, while a higher value will select a broader range of colors.
-   - The **Feathering** option determines how smooth the edges of the selection are. A higher value will create softer, more feathered edges, while a lower value will create sharper edges.
-   > In GIMP, when a portion of an image is selected using tools like the ![FuzzySelectTool.PNG](../images/FuzzySelectTool.PNG) *Fuzzy Select Tool*, that selected area becomes the active focus for any subsequent operations. This means that any changes you make will only apply to this selected area. If you want to manipulate a different part of the image or use other tools that aren't applicable to the selected area, you'll need to deselect the current selection. To do this, navigate to the `Select` menu on the topbar and choose `None` (or press `Shift` + `Ctrl` + `A` for Windows and `Shift` + ⌘ `Cmd` + `A` for Mac). This action will remove the active selection, allowing you to freely use all of GIMP's tools and functionalities on the entire image.
+   - The **Feathering** option determines how smooth the edges of the selection are. A higher value will create softer, more feathered edges (a gradual transition between two colors), while a lower value will create sharper edges.
+   > ${\color{yellow}\text{Note: }}$ In GIMP, when a portion of an image is selected using tools like the ![FuzzySelectTool.PNG](../images/FuzzySelectTool.PNG) *Fuzzy Select Tool*, that selected area becomes the active focus for any subsequent operations. This means that any changes you make will only apply to this selected area. If you want to manipulate a different part of the image or use other tools that aren't applicable to the selected area, you'll need to deselect the current selection. To do this, navigate to the `Select` menu on the topbar and choose `None` (or press `Shift` + `Ctrl` + `A` for Windows and `Shift` + ⌘ `Cmd` + `A` for Mac). This action will remove the active selection, allowing you to freely use all of GIMP's tools and functionalities on the entire image.
 5. Once you're happy with the selection, you can manipulate it using other tools (Move, Rotate, Add Border, etc...), or press `Delete` to replace it with the active background color (located directly below the toolbox).
 
 ## Common Uses for the Fuzzy Select Tool
@@ -50,14 +50,8 @@ Remember, practice makes perfect. The more you use the ![FuzzySelectTool.PNG](..
 
 ## Troubleshooting
 
-If you're having trouble using the ![FuzzySelectTool.PNG](../images/FuzzySelectTool.PNG) *Fuzzy Select Tool*, here are some common issues and their solutions:
+- **Tool Not Responding**: If the tool is not responding or behaving unexpectedly, try resetting it. You can do this by going to the `Edit` menu and selecting `Preferences`. In the dialog box that appears, click on `Tool Options` and then `Reset All Tool Options`.
 
-- **The Fuzzy Select Tool isn't selecting anything**: Make sure you've clicked on the image and not outside of it. Also, check that the layer you're trying to select from is the active layer in the Layers panel.
+- **Selection Disappears**: Some GIMP tools disappear when you try to use another tool. If this happens, press `Ctrl` + `Z` on Windows or ⌘`Cmd` + `Z` on Mac to undo your previous action(s). If you need to use another tool but keep your selection, go to the `Select` menu and choose `Save to Channel`. You can then reselect it later by going to the `Channels` panel and clicking on the saved selection.
 
-- **The Fuzzy Select Tool is selecting too much or too little**: Adjust the Threshold setting in the Tool Options. A higher value will select a broader range of similar colors, while a lower value will select a narrower range.
-
-- **The edges of the selection are too sharp or too soft**: Adjust the Feather edges option in the Tool Options. A higher value will create softer, more feathered edges, while a lower value will create sharper edges.
-
-- **The deleted background is not transparent but white or another color**: Make sure the layer has an alpha channel. You can add one by right-clicking on the layer in the Layers panel (located on the right of the screen) and selecting `Add Alpha Channel`. 
-
-Remember, the GIMP community is a great resource for troubleshooting. If you're still having trouble, consider searching for your issue on the [GIMP forums](https://www.gimp-forum.net/) or the [GIMP subreddit](https://www.reddit.com/r/GIMP/).
+If you're still having trouble, consider searching for your issue on the [GIMP forums](https://www.gimp-forum.net/) or the [GIMP subreddit](https://www.reddit.com/r/GIMP/).
