@@ -19,13 +19,15 @@
   - **Size:** Adjusts the diameter of the brush.
   - **Hardness:** Adjusts the edge softness of the brush.
   - **Opacity:** Adjusts the transparency of the cloned area.
-  - **Source:** Choose "Image" to clone from the current image or "Pattern" to clone from a preset pattern.
-- Choose an appropriate brush from the brush selection. For most tasks, a soft round brush is ideal.
+![Size Hardness and Opacity are Highlighted](../images/CloneToolAdjustments.png)
+
+
 
 ## 4. Set the Clone Source:
 
 - Move the cursor to the area of the image you want to use as a source for cloning.
-- Hold down the `Ctrl` key and click once. This sets the source point for cloning.
+- Hold down the `Ctrl` key and click once. Note that the cursor changes shape,indicating you are in source mode.
+- This sets the source point for cloning.
 
 ## 5. Start Cloning:
 
