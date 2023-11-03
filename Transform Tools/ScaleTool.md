@@ -1,19 +1,18 @@
-# Using the Scale Tool
-
+# Using the ![ScaleTool.PNG](../images/ScaleTool.PNG) *Scale Tool*
 *Written by Zachary Harrison*
 
 ## 1. Open an Image
 
-1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and `Cmd`⌘ + `O` for Mac). 
+1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac). 
 2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar.
     > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
-## 2. Find the Scale Tool
+## 2. Find the ![ScaleTool.PNG](../images/ScaleTool.PNG) *Scale Tool*
 
 ![FindingScaleTool.png](../images/FindingScaleTool.png)
 
-Hover over the ![RotateTool.PNG](../images/RotateTool.PNG) `Rotate Tool` outlined above. After about a second, a pop-up will display keyboard shortcuts for various different tools related to Rotate. Press the keyboard shortcut for the ![ScaleTool.PNG](../images/ScaleTool.PNG) `Scale Tool`.
-> This will cause the ![RotateTool.PNG](../images/RotateTool.PNG) `Rotate Tool` Icon to be replaced by the ![ScaleTool.PNG](../images/ScaleTool.PNG) `Scale Tool` icon. To reverse this, repeat the previous step, but instead press the keyboard shortcut for ![RotateTool.PNG](../images/RotateTool.PNG) `Rotate Tool`.
+Hover over the ![RotateTool.PNG](../images/RotateTool.PNG) *Rotate Tool* outlined above. After about a second, a pop-up will display keyboard shortcuts for various different tools related to Rotate. Press the keyboard shortcut for the ![ScaleTool.PNG](../images/ScaleTool.PNG) *Scale Tool*.
+> This will cause the ![RotateTool.PNG](../images/RotateTool.PNG) *Rotate Tool* Icon to be replaced by the ![ScaleTool.PNG](../images/ScaleTool.PNG) *Scale Tool* icon. To reverse this, repeat the previous step, but instead press the keyboard shortcut for ![RotateTool.PNG](../images/RotateTool.PNG) *Rotate Tool*.
 
 ## 3. Choosing Scale Transform
 
