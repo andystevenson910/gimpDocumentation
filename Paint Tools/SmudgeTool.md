@@ -8,9 +8,9 @@
 
 ## 2. Select the Smudge Tool:
 
-- In the main toolbox, find the icon that looks like a pointing finger `![Smudge Icon](../images/SmudgeTool.PNG)`, which represents the Smudge Tool. Click on it to select it.
+- In the main toolbox, find the icon that looks like a pointing finger ![Smudge Icon](../images/SmudgeTool.png), which represents the Smudge Tool. Click on it to select it.
 - You can also press the shortcut key `S` to quickly activate the Smudge Tool.
-`![Selecting Smudge Tool](../images/SmudgeToolSelection.png)`
+![Selecting Smudge Tool](../images/SmudgeToolSelection.png)
 
 ## 3. Configure the Tool Options:
 
@@ -19,7 +19,7 @@
   - **Hardness:** Determines the edge hardness of the smudge brush.
   - **Force:** Controls the strength of the smudging effect.
   - **Rate:** Adjusts the speed at which the smudge effect is applied.
-`![Size, Hardness, and Force are Highlighted](../images/SmudgeToolAdjustments.png)`
+![Size, Hardness, and Force are Highlighted](../images/SmudgeToolAdjustments.png)
 
 ## 4. Apply the Smudge Effect:
 
