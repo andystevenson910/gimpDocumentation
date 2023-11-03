@@ -7,14 +7,15 @@
 2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar.
     > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
+
 ## 2. Find the ![MoveTool.PNG](../images/MoveTool.PNG) *Move Tool*
 
 ![FindingMoveTool.png](../images/FindingMoveTool.png)
 
-Click the icon outlined above if it is the ![MoveTool.PNG](../images/MoveTool.PNG) *Rectangle Select Tool*. If it is not, press `M` or hover over its location outlined above and perform the corresponding keyboard actions. 
+Click the icon outlined above if it is the ![MoveTool.PNG](../images/MoveTool.PNG) *Move Tool*. If it is not, press `M` or hover over its location outlined above and perform the corresponding keyboard actions. 
+
 
 ## 3. Choosing Move Transform
-
 
 You can move a ![TransformLayer.png](../images/TransformLayer.png) Layer, ![TransformSelection.png](../images/TransformSelection.png) Selection, or ![TransformPath.png](../images/TransformPath.png) Path.
 > $\color{yellow} \text{Note:}$ Because moving a path is relatively rare, I won't cover it here. 
@@ -29,3 +30,8 @@ This image is before any moving:
 What? Nothing happened when we moved the selection! That's because the selection itself was moved, not the pixels it was selecting. As proof, here's what it looks like after coloring in the moved selection:
 <br /> ![MoveToolProof.PNG](../images/MoveToolProof.PNG)
 <br /> Previously, if we tried to color in the selection, we would've re-colored the wood-like pattern.
+
+
+## Troubleshooting
+
+If you're still having trouble, consider searching for your issue on the [GIMP forums](https://www.gimp-forum.net/) or the [GIMP subreddit](https://www.reddit.com/r/GIMP/).
