@@ -8,7 +8,8 @@
 
 ## 2. Select the Smudge Tool:
 
-- In the main toolbox, find the icon that looks like a pointing finger ![Smudge Icon](../images/SmudgeTool.png), which represents the Smudge Tool. Click on it to select it.
+- In the main toolbox, find the icon that looks like a pointing finger , which represents the Smudge Tool. Click on it to select it.
+![Smudge Icon](../images/SmudgeTool.png)
 - You can also press the shortcut key `S` to quickly activate the Smudge Tool.
 ![Selecting Smudge Tool](../images/SmudgeToolSelection.png)
 
