@@ -19,15 +19,13 @@ Click the icon outlined above if it is the ![MoveTool.PNG](../images/MoveTool.PN
 You can move a ![TransformLayer.png](../images/TransformLayer.png) Layer, ![TransformSelection.png](../images/TransformSelection.png) Selection, or ![TransformPath.png](../images/TransformPath.png) Path.
 > $\color{yellow} \text{Note:}$ Because moving a path is relatively rare, I won't cover it here. 
 
+This image is before any moving:
+<br /> ![MoveToolBeforeMoving.png](../images/MoveToolBeforeMoving.png)
 
-### Move Transform: ![TransformLayer.png](../images/TransformLayer.png) **Layer**
+| ![TransformLayer.png](../images/TransformLayer.png) **Layer** | ![TransformSelection.png](../images/TransformSelection.png) **Selection** |
+|:---:|:---:|
+| ![MoveToolAfterMovingLayer.PNG](../images/MoveToolAfterMovingLayer.PNG) | ![MoveToolAfterMovingSelection.PNG](../images/MoveToolAfterMovingSelection.PNG) |
 
-![MoveToolAfterMovingLayer.PNG](../images/MoveToolAfterMovingLayer.PNG)
-
-### Move Transform: ![TransformSelection.png](../images/TransformSelection.png) **Selection**
-
-![MoveToolAfterMovingSelection.PNG](../images/MoveToolAfterMovingSelection.PNG)
-
-What? Nothing happened! That's because the selection itself was moved, not the pixels it was selecting. As proof, here's what it looks like after coloring in the moved selection:
+What? Nothing happened when we moved the selection! That's because the selection itself was moved, not the pixels it was selecting. As proof, here's what it looks like after coloring in the moved selection:
 <br /> ![MoveToolProof.PNG](../images/MoveToolProof.PNG)
 <br /> Previously, if we tried to color in the selection, we would've re-colored the wood-like pattern.
