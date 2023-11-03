@@ -28,6 +28,20 @@ The tool will look like this:
 
 ## Using the Tool 
 
+### Reset
+An important feature to note before adjusting any values is the ability to reset 
+your changes. 
+![](../images/ResetButton.PNG)
+
+The bottom reset button resets all colors, while the reset color button resets only the selected color. This resets hue, brightness and saturation to the previous saved setting
+
+### Saving 
+
+![](../images/SaveButton.PNG)
+ 
+ Selecting OK will save your changes, to your image, and will put the tool back to its begining state. 
+ Ctl+Z can undo this change after a save if desired 
+
 ### Hue
 Hue can be used in a variety of ways. We will cover the basics in this section.
 
@@ -45,7 +59,7 @@ Here is an example of selecting the red color:
 
 ![Select Red](../images/selectRed.PNG)
 
-We can then change the Hue of red to another color. The following image will depict an example of changing the red hue.
+We can then change the Hue of red to another color. the following is an example image taken before any changes have been made.
 
 ![Before Hue](../images/beforeHue.PNG)
 *Example image before changing the red hue*
@@ -79,15 +93,13 @@ The higher the saturation, the more outstanding a color becomes:
 This tool also includes lightness of a color.
 That is how dark or bright the image will appear. 
 
-This can be adjusted like hue and saturation, selecting a single color or the master set, and using the sliding bar to adjust the values. 
+This can be adjusted using the Lightness bar found in the tool, selecting a single color or the master set using the button next to the letter to change one color, or master to manipulate the entire image. 
 
-In this example we made Blue's lightness low, and reds high:
+In this example we made Blue's lightness low, and reds is high:
 
 ![images/LightnessExample.PNG](../images/LightnessExample.PNG)
 
-### Reset
 
-The bottom reset button resets all colors, while the reset color button resets only the selected color.
 
 ## Color Theory
 
