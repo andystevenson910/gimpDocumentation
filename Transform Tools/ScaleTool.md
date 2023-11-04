@@ -1,4 +1,4 @@
-# Using the ![ScaleTool.png](../images/scaletool.png) *Scale Tool*
+# Using the ![ScaleTool.png](../images/ScaleTool.png) *Scale Tool*
 *Written by Zachary Harrison*
 
 
@@ -9,12 +9,12 @@
     > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
 
-## 2. Find the ![ScaleTool.png](../images/scaletool.png) *Scale Tool*
+## 2. Find the ![ScaleTool.png](../images/ScaleTool.png) *Scale Tool*
 
 ![FindingScaleTool.png](../images/FindingScaleTool.png)
 
-Hover over the ![RotateTool.png](../images/rotatetool.png) *rotate tool* outlined above. after about a second, a pop-up will display keyboard shortcuts for various different tools related to rotate. press the keyboard shortcut for the ![scaletool.png](../images/scaletool.png) *Scale Tool*.
-> This will cause the ![RotateTool.png](../images/rotatetool.png) *rotate tool* icon to be replaced by the ![scaletool.png](../images/scaletool.png) *scale tool* icon. to reverse this, repeat the previous step, but instead press the keyboard shortcut for ![rotatetool.png](../images/rotatetool.png) *Rotate Tool*.
+Hover over the ![RotateTool.png](../images/RotateTool.png) *rotate tool* outlined above. after about a second, a pop-up will display keyboard shortcuts for various different tools related to rotate. press the keyboard shortcut for the ![ScaleTool.png](../images/ScaleTool.png) *Scale Tool*.
+> This will cause the ![RotateTool.png](../images/RotateTool.png) *rotate tool* icon to be replaced by the ![ScaleTool.png](../images/ScaleTool.png) *scale tool* icon. to reverse this, repeat the previous step, but instead press the keyboard shortcut for ![RotateTool.png](../images/RotateTool.png) *Rotate Tool*.
 
 Alternatively, you can use the keyboard shortcut and press `Shift` + `S`.
 
@@ -25,7 +25,7 @@ You can scale a ![TransformLayer.png](../images/TransformLayer.png) Layer, ![Tra
 > $\color{yellow} \text{Note:}$ Because scaling a path is relatively rare, I won't cover it here. 
 
 This image is before any scaling:
-<br /> ![ScaleToolBeforeScaling.png](../images/scaletoolbeforescaling.png)
+<br /> ![ScaleToolBeforeScaling.png](../images/ScaleToolBeforeScaling.png)
 
 > $\color{yellow} \text{Note:}$ You can type into the Scale box in the top right OR use your mouse to click on one of the boxes on the image drag the image to an approximate size. For simplicity, **I resized from 500x500 to 250x250 in the following proceeding examples**.
 
@@ -34,24 +34,24 @@ This image is before any scaling:
 
 | During Scaling | After Scaling |
 |:---:|:---:|
-| ![ScaleToolDuringScalingImage.png](../images/scaletoolduringscalingimage.png) | ![scaletoolafterscalingimage.png](../images/scaletoolafterscalingimage.png) |
+| ![ScaleToolDuringScalingImage.png](../images/ScaleToolDuringScalingImage.png) | ![ScaleToolAfterScalingImage.png](../images/ScaleToolAfterScalingImage.png) |
 
 
 ### Scale Transform: ![TransformLayer.png](../images/TransformLayer.png) **Layer**
 
 | During Scaling | After Scaling |
 |:---:|:---:|
-| ![ScaleToolDuringScalingLayer.png](../images/scaletoolduringscalinglayer.png) | ![scaletoolafterscalinglayer.png](../images/scaletoolafterscalinglayer.png) |
+| ![ScaleToolDuringScalingLayer.png](../images/ScaleToolDuringScalingLayer.png) | ![ScaleToolAfterScalingLayer.png](../images/ScaleToolAfterScalingLayer.png) |
 
 
 ### Scale Transform: ![TransformSelection.png](../images/TransformSelection.png) **Selection**
 
 | During Scaling | After Scaling |
 |:---:|:---:|
-| ![ScaleToolDuringScalingSelection.png](../images/scaletoolduringscalingselection.png) | ![scaletoolafterscalingselection.png](../images/scaletoolafterscalingselection.png) |
+| ![ScaleToolDuringScalingSelection.png](../images/ScaleToolDuringScalingSelection.png) | ![ScaleToolAfterScalingSelection.png](../images/ScaleToolAfterScalingSelection.png) |
 
 What? Nothing happened! That's because the selection itself was scaled, not the pixels it was selecting. As proof, here's what it looks like after coloring in the scaled selection:
-<br /> ![ScaleToolProof.png](../images/scaletoolproof.png)
+<br /> ![ScaleToolProof.png](../images/ScaleToolProof.png)
 <br /> Previously, if we tried to color in the selection, we would've re-colored the green pattern.
 
 

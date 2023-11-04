@@ -8,13 +8,13 @@
 
 ## 2. Select the Clone Tool:
 
-- Click on the ![CloneTool.png](../images/clonetool.png) *Clone Tool*.
-- Alternatively, you can press the shortcut key `C` to activate the ![CloneTool.png](../images/clonetool.png) *Clone Tool*.
+- Click on the ![CloneTool.png](../images/CloneTool.png) *Clone Tool*.
+- Alternatively, you can press the shortcut key `C` to activate the ![CloneTool.png](../images/CloneTool.png) *Clone Tool*.
 ![Selecting Clone Tool](../images/CloneToolSelection.png)
 
 ## 3. Adjust the Tool Settings:
 
-In the Tool Options pane below the main toolbox, you can adjust various settings for the ![CloneTool.png](../images/clonetool.png) *Clone Tool*:
+In the Tool Options pane below the main toolbox, you can adjust various settings for the ![CloneTool.png](../images/CloneTool.png) *Clone Tool*:
 - **Size:** Adjusts the diameter of the brush.
 - **Hardness:** Adjusts the edge softness of the brush.
 - **Opacity:** Adjusts the transparency of the cloned area.

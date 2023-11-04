@@ -32,13 +32,13 @@ The tool will look like this:
 
 An important feature to note before adjusting any values is the ability to reset your changes. 
 
-![Reset Button](../images/resetbutton.png)
+![Reset Button](../images/ResetButton.png)
 
 The bottom reset button resets all colors, while the reset color button resets only the selected color. This resets hue, brightness, and saturation to the previous saved setting.
 
 ### Saving 
 
-![Save Button](../images/savebutton.png)
+![Save Button](../images/SaveButton.png)
 
 Selecting `OK` will save your changes to your image, and will reset the tool to its beginning state. 
 
@@ -62,18 +62,18 @@ To change the hue of a single color type, start by clicking on the circle next t
 
 Here is an example of selecting the red color:
 
-![Select Red](../images/selectred.png)
+![Select Red](../images/selectRed.png)
 
 We can then change the Hue of red to another color. The following is an example image taken before any changes have been made.
 
-![Before Hue](../images/beforehue.png)
+![Before Hue](../images/beforeHue.png)
 <br/>*Example image before changing the red hue*
 
 You can now change the hue of red. Slide to adjust the Hue, Lightness, and/or Saturation values indicated under the Adjust Select Color section. Alternatively, you can click the arrows to increment/decrement by one or click on the number and type your desired value. 
 
 > Note: The default value for hue is 0.0
 
-![After Hue](../images/afterhue.png)
+![After Hue](../images/afterHue.png)
 <br/>*Example image after changing the red hue. Notice how images on the screen that had red in them now are closer to yellow. This is especially apparent on the border picture on the map of the screenshots video game.* 
 
 This will save the state of red if you choose to further adjust other colors.
@@ -92,7 +92,7 @@ The default value for saturation is 0. As you decrease the value, your color wil
 
 The higher the saturation, the more outstanding a color becomes:
 
-![randomSaturation.png](../images/randomsaturation.png)
+![randomSaturation.png](../images/randomSaturation.png)
 
 ### Lightness
 
@@ -103,7 +103,7 @@ This can be adjusted using the Lightness bar found in the tool, selecting a sing
 
 In this example, we made Blue's lightness low, and Red's high:
 
-![Lightness Example](../images/lightnessexample.png)
+![Lightness Example](../images/LightnessExample.png)
 <br/>*Example of adjusting lightness. Blue's lightness is low, and Red's is high.*
 
 ## Color Theory

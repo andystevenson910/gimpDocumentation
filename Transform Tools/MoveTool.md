@@ -1,4 +1,4 @@
-# Using the ![MoveTool.png](../images/movetool.png) *Move Tool*
+# Using the ![MoveTool.png](../images/MoveTool.png) *Move Tool*
 *Written by Zachary Harrison*
 
 ## 1. Open an Image
@@ -8,11 +8,11 @@
     > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
 
-## 2. Find the ![MoveTool.png](../images/movetool.png) *Move Tool*
+## 2. Find the ![MoveTool.png](../images/MoveTool.png) *Move Tool*
 
 ![FindingMoveTool.png](../images/FindingMoveTool.png)
 
-Click the icon outlined above if it is the ![MoveTool.png](../images/movetool.png) *Move Tool*. If it is not, press `M` or hover over its location outlined above and perform the corresponding keyboard actions. 
+Click the icon outlined above if it is the ![MoveTool.png](../images/MoveTool.png) *Move Tool*. If it is not, press `M` or hover over its location outlined above and perform the corresponding keyboard actions. 
 
 
 ## 3. Choosing Move Transform
@@ -25,10 +25,10 @@ This image is before any moving:
 
 | ![TransformLayer.png](../images/TransformLayer.png) **Layer** | ![TransformSelection.png](../images/TransformSelection.png) **Selection** |
 |:---:|:---:|
-| ![MoveToolAfterMovingLayer.png](../images/movetoolaftermovinglayer.png) | ![movetoolaftermovingselection.png](../images/movetoolaftermovingselection.png) |
+| ![MoveToolAfterMovingLayer.png](../images/MoveToolAfterMovingLayer.png) | ![MoveToolAfterMovingSelection.png](../images/MoveToolAfterMovingSelection.png) |
 
 What? Nothing happened when we moved the selection! That's because the selection itself was moved, not the pixels it was selecting. As proof, here's what it looks like after coloring in the moved selection:
-<br /> ![MoveToolProof.png](../images/movetoolproof.png)
+<br /> ![MoveToolProof.png](../images/MoveToolProof.png)
 <br /> Previously, if we tried to color in the selection, we would've re-colored the wood-like pattern.
 
 
