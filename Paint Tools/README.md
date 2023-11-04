@@ -9,10 +9,10 @@
 GIMP provides a variety of paint tools to help you create and modify the contents of your images. These tools include:
 
 - ![AirbrushTool.png](../images/AirbrushTool.png) [**Airbrush Tool**](AirbrushTool.md): Draws with a soft edge, simulating the effect of an airbrush.
-- ![BucketFillTool.png](../images/bucketfilltool.png) [**Bucket Fill Tool**](BucketFillTool.md): Fills a selection with the current foreground color.
-- ![CloneTool.png](../images/clonetool.png) [**Clone Tool**](CloneTool.md): Copies a portion of an image and paints it onto another location of an image.
-- ![EraserTool.png](../images/erasertool.png) [**Eraser Tool**](EraserTool.md): Replaces parts of an image with a designated color or a transparent background.
-- ![SmudgeTool.png](../images/smudgetool.png) [**Smudge Tool**](SmudgeTool.md): Smudges colors on the active layer or a selection.
+- ![BucketFillTool.png](../images/BucketFillTool.png) [**Bucket Fill Tool**](BucketFillTool.md): Fills a selection with the current foreground color.
+- ![CloneTool.png](../images/CloneTool.png) [**Clone Tool**](CloneTool.md): Copies a portion of an image and paints it onto another location of an image.
+- ![EraserTool.png](../images/EraserTool.png) [**Eraser Tool**](EraserTool.md): Replaces parts of an image with a designated color or a transparent background.
+- ![SmudgeTool.png](../images/SmudgeTool.png) [**Smudge Tool**](SmudgeTool.md): Smudges colors on the active layer or a selection.
 
 ## Further Reading
 

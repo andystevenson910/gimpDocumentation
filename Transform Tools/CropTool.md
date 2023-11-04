@@ -22,7 +22,7 @@ This an example image is before any cropping:
 
 | During Crop | After Crop |
 |:---:|:---:|
-| ![CropToolDuringCrop.png](..\images\CropToolDuringCrop.png) | ![CropToolAfterCrop.png](../images/CropToolAfterCrop.png) |
+| ![CropToolDuringCrop.png](../images/CropToolDuringCrop.png) | ![CropToolAfterCrop.png](../images/CropToolAfterCrop.png) |
 
 ## Troubleshooting
 
