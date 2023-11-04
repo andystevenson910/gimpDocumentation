@@ -10,7 +10,9 @@ Here's how to use it:
 
 1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 
-1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
+Some words
+
+1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png) <img src="images/GIMPLogo.png" width="200" height="200">
    1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac).  ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
    2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
       > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
