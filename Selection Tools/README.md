@@ -8,9 +8,9 @@
 
 GIMP provides a variety of selection tools to help you select specific areas of your image for editing. These tools include:
 
-- ![FuuzySelectTool.png](../images/fuzzyselecttool.png) [**Fuzzy Select Tool**](FuzzySelectTool.md): Selects a contiguous region based on color similarity. 
-- ![FreeSelectTool.png](../images/freeselecttool.png) [**Free Select Tool**](FreeSelectTool.md): Selects an arbitrary region via freehand or polygonal regions made with straight lines. 
-- ![RectangleSelectTool.png](../images/rectangleselecttool.png) [**Rectangle Select Tool**](RectangleSelectTool.md): Selects a rectangular region. 
+- ![FuzzySelectTool.png](../images/FuzzySelectTool.png) [**Fuzzy Select Tool**](FuzzySelectTool.md): Selects a contiguous region based on color similarity. 
+- ![FreeSelectTool.png](../images/FreeSelectTool.png) [**Free Select Tool**](FreeSelectTool.md): Selects an arbitrary region via freehand or polygonal regions made with straight lines. 
+- ![RectangleSelectTool.png](../images/RectangleSelectTool.png) [**Rectangle Select Tool**](RectangleSelectTool.md): Selects a rectangular region. 
 
 ## Further Reading
 
