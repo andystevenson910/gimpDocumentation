@@ -32,6 +32,7 @@
 
 - You can experiment with different brushes for varied smudge effects. Brushes with textured edges can create interesting patterns.
 - To change the brush, open the Brush Dialog by clicking on the current brush preview in the Tool Options panel.
+![Selecting Smudge Tool](../images/SmudgeBlurDropdown.png)
 
 ## 6. Adjust the Smudge Settings:
 
