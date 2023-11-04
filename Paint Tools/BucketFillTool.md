@@ -16,7 +16,7 @@
 ## 3. Adjust the Bucket Fill Settings:
 
 - In the Tool Options panel, adjust the settings for the Bucket Fill Tool:
-  - **Fill Type:** Choose between `Foreground color fill`, `Background color fill`, `Pattern fill`, or `Color erase`.
+  - **Fill Type:** Choose between `Foreground color fill`, `Background color fill`, and `Pattern fill`
   - **Mode:** Select the blending mode for the fill.
   - **Opacity:** Set the opacity level of the fill.
   - **Threshold:** Determine the range of similar colors the bucket will fill.
