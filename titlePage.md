@@ -1,5 +1,7 @@
+#Documentation on Select Gimp Tools
 <p align="center">
-    <img src="images/GIMPLogo.png" width="200" height="200">
+    <img src="images/GIMPLogo.png" width="600" height="600">
 </p>
 
-Written by 
+Written by Zachary Harrison, Samuel Bjorkman, Andy Stevenson, and Robert Gordon
+
