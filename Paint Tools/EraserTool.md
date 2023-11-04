@@ -9,6 +9,7 @@
 ## 2. Choose the Eraser Tool:
 
 - Find the Eraser Tool in the main toolbox, represented by an eraser icon. Click on this icon.
+  <br>
 ![Eraser Icon](../images/EraserTool.png)
 - Alternatively, press the shortcut key `Shift + E` to quickly select the Eraser Tool.
 ![Selecting Eraser Tool](../images/EraserToolSelection.png)
@@ -58,4 +59,3 @@
 - Experiment with different brushes and dynamics to achieve creative effects.
 - Use the `Undo` action (Ctrl+Z) to correct any mistakes immediately.
 
-(Note: The icons and screenshots are placeholders and should be replaced with the actual images from the GIMP interface.)
