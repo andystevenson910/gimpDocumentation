@@ -2,26 +2,26 @@
 
 *Written by Zachary Harrison*
 
-The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is a powerful tool that allows you to select an area of your image based on its color. 
-![FuzzySelectTool.png](../images/FuzzySelectTool.png)![FuzzySelectTool.png](../images/FuzzySelectTool.png)
+The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is a powerful tool that allows you to select an area of your image based on its color. 
 
 ![FuzzySelectToolOverview](../images/FuzzySelectToolOverview.png)
 
-![FuzzySelectTool.png](../images/FuzzySelectTool.png)![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 Here's how to use it:
+
+1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 
 1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
    1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac).  ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
    2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
       > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 2. Select the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* from the Toolbox on the left of your screen. 
-2. Select the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* from the Toolbox on the left of your screen. 
-3. Click on the area of your image that you want to select. The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* will select all pixels in your image that have a similar color to the one you clicked on. 
-4. If the selection is not accurate enough, you can adjust the threshold and feathering of the selection. 
+3. Select the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* from the Toolbox on the left of your screen. 
+4. Click on the area of your image that you want to select. The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* will select all pixels in your image that have a similar color to the one you clicked on. 
+5. If the selection is not accurate enough, you can adjust the threshold and feathering of the selection. 
    - The **Threshold** slider determines how similar the colors need to be to be selected. A lower value will select colors that are very similar to the one you clicked on, while a higher value will select a broader range of colors.
    - The **Feathering** option determines how smooth the edges of the selection are. A higher value will create softer, more feathered edges (a gradual transition between two colors), while a lower value will create sharper edges.
    > ${\color{yellow}\text{Note: }}$ In GIMP, when a portion of an image is selected using tools like the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool*, that selected area becomes the active focus for any subsequent operations. This means that any changes you make will only apply to this selected area. If you want to manipulate a different part of the image or use other tools that aren't applicable to the selected area, you'll need to deselect the current selection. To do this, navigate to the `Select` menu on the topbar and choose `None` (or press `Shift` + `Ctrl` + `A` for Windows and `Shift` + ⌘ `Cmd` + `A` for Mac). This action will remove the active selection, allowing you to freely use all of GIMP's tools and functionalities on the entire image.
-5. Once you're happy with the selection, you can manipulate it using other tools (Move, Rotate, Add Border, etc...), or press `Delete` to replace it with the active background color (located directly below the toolbox).
+6. Once you're happy with the selection, you can manipulate it using other tools (Move, Rotate, Add Border, etc...), or press `Delete` to replace it with the active background color (located directly below the toolbox).
 
 ## Common Uses for the Fuzzy Select Tool
 
