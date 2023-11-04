@@ -8,18 +8,17 @@
 
 ## 2. Choose the Eraser Tool:
 
-- Find the Eraser Tool in the main toolbox, represented by an eraser icon. Click on this icon.
-  <br>
-![Eraser Icon](../images/EraserTool.png)
-- Alternatively, press the shortcut key `Shift + E` to quickly select the Eraser Tool.
+- Click on the ![EraserTool.PNG](../images/EraserTool.PNG) *Eraser Tool*.
+- Alternatively, press the shortcut key `Shift + E` to quickly select the ![EraserTool.PNG](../images/EraserTool.PNG) *Eraser Tool*.
 ![Selecting Eraser Tool](../images/EraserToolSelection.png)
 
 ## 3. Configure the Eraser Options:
 
-- In the Tool Options panel, which is usually below the main toolbox, you can adjust several settings:
-  - **Size:** Sets the diameter of the eraser.
-  - **Hardness:** Determines the softness of the eraser's edges.
-  - **Opacity:** Controls how transparent the erased area will be.
+In the Tool Options panel, which is usually below the main toolbox, you can adjust several settings:
+- **Size:** Sets the diameter of the eraser.
+- **Hardness:** Determines the softness of the eraser's edges.
+- **Opacity:** Controls how transparent the erased area will be.
+
 ![Eraser Options Panel](../images/EraserToolOptions.png)
 
 ## 4. Start Erasing:

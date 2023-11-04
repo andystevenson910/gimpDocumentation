@@ -8,24 +8,25 @@
 
 ## 2. Select the Bucket Fill Tool:
 
-- In the main toolbox, look for the icon that resembles a paint bucket. Click on it to activate the Bucket Fill Tool.<br>
-![Bucket Fill Icon](../images/BucketFillTool.png)
+- In the main toolbox, look for the icon that resembles a paint bucket. Click on it to activate the ![Bucket Fill Icon](../images/BucketFillTool.png) *Bucket Fill Tool*.<br>
+
 - You can also select the Bucket Fill Tool by pressing the shortcut key `Shift + B`.
 ![Selecting Bucket Fill Tool](../images/BucketFillToolSelection.png)
 
 ## 3. Adjust the Bucket Fill Settings:
 
-- In the Tool Options panel, adjust the settings for the Bucket Fill Tool:
-  - **Fill Type:** Choose between `Foreground color fill`, `Background color fill`, and `Pattern fill`
-  - **Mode:** Select the blending mode for the fill.
-  - **Opacity:** Set the opacity level of the fill.
-  - **Threshold:** Determine the range of similar colors the bucket will fill.
+In the Tool Options panel, adjust the settings for the ![Bucket Fill Icon](../images/BucketFillTool.png) *Bucket Fill Tool*:
+- **Fill Type:** Choose between `Foreground color fill`, `Background color fill`, and `Pattern fill`
+- **Mode:** Select the blending mode for the fill.
+- **Opacity:** Set the opacity level of the fill.
+- **Threshold:** Determine the range of similar colors the bucket will fill.
+
 ![Bucket Fill Options](../images/BucketFillOptions.png)
 
 ## 4. Apply the Fill:
 
-- Click on the part of the image where you want to apply the fill. The Bucket Fill Tool will fill the area based on the color similarity and threshold.
-- To fill with a pattern, select the `Pattern fill` option and choose a pattern from the list.
+- Click on the part of the image where you want to apply the fill. The ![Bucket Fill Icon](../images/BucketFillTool.png) *Bucket Fill Tool* will fill the area based on the color similarity and threshold.
+- To fill with a pattern, select the `Pattern Fill` option and choose a pattern from the list.
 
 ## 5. Use Fill Transparency:
 

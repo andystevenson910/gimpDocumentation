@@ -10,9 +10,7 @@ GIMP provides a variety of color tools to help you manipulate and adjust the col
 
 
 - [**Brightness-Contrast Tool**](BrightnessContrastTool.md): Adjusts the brightness and contrast of an image.
-- [**Colorize Tool**](ColorizeTool.md): Applies a color tint to an image.
 - [**Hue-Saturation Tool**](HueSaturationTool.md): Adjusts the hue, saturation, and lightness of your image. 
-- [**Levels Tool**](LevelsTool.md): Adjusts the brightness and contrast of an image.
 
 ## Further Reading
 

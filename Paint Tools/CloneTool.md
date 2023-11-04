@@ -8,17 +8,17 @@
 
 ## 2. Select the Clone Tool:
 
-- In the main toolbox, locate the rubber stamp icon ![Clone Icon](../images/CloneTool.PNG)
-, which represents the Clone Tool. Click on it.
-- Alternatively, you can press the shortcut key `C` to activate the Clone Tool.
+- Click on the ![CloneTool.PNG](../images/CloneTool.PNG) *Clone Tool*.
+- Alternatively, you can press the shortcut key `C` to activate the ![CloneTool.PNG](../images/CloneTool.PNG) *Clone Tool*.
 ![Selecting Clone Tool](../images/CloneToolSelection.png)
 
 ## 3. Adjust the Tool Settings:
 
-- In the Tool Options pane below the main toolbox, you can adjust various settings for the Clone Tool:
-  - **Size:** Adjusts the diameter of the brush.
-  - **Hardness:** Adjusts the edge softness of the brush.
-  - **Opacity:** Adjusts the transparency of the cloned area.
+In the Tool Options pane below the main toolbox, you can adjust various settings for the ![CloneTool.PNG](../images/CloneTool.PNG) *Clone Tool*:
+- **Size:** Adjusts the diameter of the brush.
+- **Hardness:** Adjusts the edge softness of the brush.
+- **Opacity:** Adjusts the transparency of the cloned area.
+
 ![Size Hardness and Opacity are Highlighted](../images/CloneToolAdjustments.png)
 
 
@@ -40,7 +40,9 @@ sampling from.
 - To save your edited image, go to `File` > `Export As` and choose your preferred file format and settings.
 
 # Other Settings:
+
 ## Alignment Mode:
+
 ### None Mode
 Clones from the initial source point for each new brushstroke, with no relation to previous strokes.
 

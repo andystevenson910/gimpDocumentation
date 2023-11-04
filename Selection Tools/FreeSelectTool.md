@@ -4,11 +4,12 @@
 
 ## Overview
 
-The free select tool is used to create selections of irregular shape. In GIMP, a selection is a bounded region that limits where certain tools can be applied. With the free select tool, selections can be formed by drawing an outline, or by placing points to form connected line segments, or by a combination of both. 
+The ![](../images/FreeSelectTool.PNG) *Free Select Tool* is used to create selections of irregular shape. In GIMP, a selection is a bounded region that limits where certain tools can be applied. With the ![](../images/FreeSelectTool.PNG) *Free Select Tool*, selections can be formed by drawing an outline, or by placing points to form connected line segments, or by a combination of both. 
+
 
 ## Activating the Free Select Tool
 
-The free select tool can be activated by pressing `F` on your keyboard, or by finding the toolbox and left-clicking the lasso icon.
+The ![](../images/FreeSelectTool.PNG) *Free Select Tool* can be activated by pressing `F` on your keyboard, or by finding the toolbox and left-clicking the lasso icon.
 
 ![toolbox with freeselect selected](../images/lassoicon.PNG)
 
@@ -43,7 +44,7 @@ The completed selection will be marked by a dotted line, in the shape of the pat
 
 ## Tool Options
 
-The tool options for the free select tool allow you to change the functionality of the tool in useful ways. The tool options dialogue can be accessed by navigating to `Windows>Dockable Dialogues>Tool Options`. 
+The tool options for the ![](../images/FreeSelectTool.PNG) *Free Select Tool* allow you to change the functionality of the tool in useful ways. The tool options dialogue can be accessed by navigating to `Windows>Dockable Dialogues>Tool Options`. 
 
 ## Selection Modes
 

@@ -8,14 +8,13 @@
 
 ## 2. Select the Smudge Tool:
 
-- In the main toolbox, find the icon that looks like a pointing finger , which represents the Smudge Tool. Click on it to select it.
-![Smudge Icon](../images/SmudgeTool.png)
-- You can also press the shortcut key `S` to quickly activate the Smudge Tool.
+- Click on the ![SmudgeTool.PNG](../images/SmudgeTool.PNG) *Smudge Tool*.
+- You can also press the shortcut key `S` to quickly activate the ![SmudgeTool.PNG](../images/SmudgeTool.PNG) *Smudge Tool*.
 ![Selecting Smudge Tool](../images/SmudgeToolSelection.png)
 
 ## 3. Configure the Tool Options:
 
-- Within the Tool Options panel, located beneath the main toolbox, you can modify several settings for the Smudge Tool:
+- Within the Tool Options panel, located beneath the main toolbox, you can modify several settings for the ![SmudgeTool.PNG](../images/SmudgeTool.PNG) *Smudge Tool*:
   - **Size:** Changes the width of the smudge effect.
   - **Hardness:** Determines the edge hardness of the smudge brush.
   - **Force:** Controls the strength of the smudging effect.
@@ -54,5 +53,5 @@
 - For better control, zoom in on the area you're working on.
 - Use a tablet with a stylus for a more natural and precise smudging experience.
 - Adjust the size of the brush according to the detail level required: smaller brushes for fine details, larger ones for broad smudge strokes.
-- Combining the smudge tool with different layer modes can create unique effects for your artwork.
+- Combining the ![SmudgeTool.PNG](../images/SmudgeTool.PNG) *Smudge Tool* with different layer modes can create unique effects for your artwork.
 
