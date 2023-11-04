@@ -2,7 +2,7 @@
 
 *Written by Zachary Harrison*
 
-The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is a powerful tool that allows you to select an area of your image based on its color. 
+The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is a powerful tool that allows you to select an area of your image based on its color. 
 
 ![FuzzySelectToolOverview](../images/FuzzySelectToolOverview.png)
 
@@ -12,6 +12,7 @@ Here's how to use it:
    1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac). 
    2. On the pop-up menu, navigate to your file by clicking on one of the folders on the left or by using the **Location** search bar.
         > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
+2. Select the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* from the Toolbox on the left of your screen. 
 2. Select the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* from the Toolbox on the left of your screen. 
 3. Click on the area of your image that you want to select. The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* will select all pixels in your image that have a similar color to the one you clicked on. 
 4. If the selection is not accurate enough, you can adjust the threshold and feathering of the selection. 
