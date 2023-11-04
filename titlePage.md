@@ -1,4 +1,4 @@
-<h1 align="center"> Documentation on Select Gimp Tools</h1>h1>
+<h1 align="center"> Documentation on Select Gimp Tools</h1>
 <p align="center">
     <img src="images/GIMPLogo.png" width="600" height="600">
 </p>
