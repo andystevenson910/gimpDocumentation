@@ -41,7 +41,7 @@ Here's how to use it:
 
 Here are some tips for using the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* effectively:
 
-- **Zoom In**: Use the [Zoom Tool](../other/zoomtool.md) to zoom in on your image before using the ![fuzzyselecttool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool*. This will help you select more accurately.
+- **Zoom In**: Press `Ctrl` + `Scroll` with your mouse for Windows or ⌘ `Cmd` + `Scroll` on Mac to zoom in/out. This will help you select more accurately.
 - **Add to Selection**: If you accidentally deselect part of your selection, hold down the Shift key and click on the area you want to add back to the selection.
 - **Subtract from Selection**: If you want to remove a part of the selection, hold down the `Ctrl` (or ⌘ `Cmd` on Mac) key and click on the area you want to remove from the selection.
 - **Invert Selection** If you want to select everything except your current selection, go to `Select` > `Invert` or press `Ctrl` + `I` for Windows and ⌘ `Cmd` + `I` for Mac.
