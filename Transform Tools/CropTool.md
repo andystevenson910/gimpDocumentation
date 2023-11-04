@@ -1,4 +1,5 @@
 # Using the ![CropTool.png](../images/CropTool.png) *Crop Tool*
+
 *Written by Zachary Harrison*
 
 ## 1. Open an Image

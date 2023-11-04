@@ -1,4 +1,5 @@
 # Using the Smudge Tool in GIMP
+
 *Written by Andrew Stevenson*
 
 ## 1. Open GIMP and Load Your Image:

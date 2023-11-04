@@ -1,4 +1,5 @@
 # Using the ![MoveTool.png](../images/MoveTool.png) *Move Tool*
+
 *Written by Zachary Harrison*
 
 ## 1. Open an Image

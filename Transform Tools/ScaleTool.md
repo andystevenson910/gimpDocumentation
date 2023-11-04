@@ -1,4 +1,5 @@
 # Using the ![ScaleTool.png](../images/ScaleTool.png) *Scale Tool*
+
 *Written by Zachary Harrison*
 
 

@@ -1,4 +1,5 @@
 # Using the Bucket Fill Tool in GIMP
+
 *Written by Andrew Stevenson*
 
 ## 1. Open GIMP and Your Image:
