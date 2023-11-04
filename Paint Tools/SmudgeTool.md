@@ -56,4 +56,3 @@
 - Adjust the size of the brush according to the detail level required: smaller brushes for fine details, larger ones for broad smudge strokes.
 - Combining the smudge tool with different layer modes can create unique effects for your artwork.
 
-(Note: The icons and screenshots are placeholders and should be replaced with the actual images corresponding to the GIMP interface.)
