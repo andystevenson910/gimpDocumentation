@@ -8,7 +8,7 @@
     > If you want to add a folder to the bar on the left for easy access, first navigate to it using the **Location** search bar. Then click on the `+` in the bottom left, and the name of the folder you've selected will show up at the bottom.
 
 
-## 2. Find the ![MoveTool.png](../images/MoveTool.png) *Move Tool*
+## 2. Click the ![MoveTool.png](../images/MoveTool.png) *Move Tool*
 
 ![FindingMoveTool.png](../images/FindingMoveTool.png)
 
