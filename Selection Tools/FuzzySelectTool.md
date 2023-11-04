@@ -6,12 +6,6 @@ The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is
 
 ![FuzzySelectToolOverview](../images/FuzzySelectToolOverview.png)
 
-Here's how to use it:
-
-1. Open your image in GIMP. ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
-
-Some words
-
 ### 1. Open your image in GIMP. 
 
 1. Go to the top bar on the left and click `File` > `Open` (Or press `Ctrl` + `O` for Windows and ⌘ `Cmd` + `O` for Mac).  ![FuzzySelectTool.png](../images/FuzzySelectTool.png)
@@ -22,7 +16,7 @@ Some words
 
 ![FindingFuzzySelectTool.png](../images/FindingFuzzySelectTool.png)
 
-Click the icon outlined above if it is the ![MoveTool.png](../images/MoveTool.png) *Fuzzy Select Tool*. If it is not, press `U` or hover over its location outlined above and perform the corresponding keyboard actions. 
+Click the icon outlined above if it is the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool*. If it is not, press `U` or hover over its location outlined above and perform the corresponding keyboard actions. 
 
 ### 3. Use  the ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool*
 
