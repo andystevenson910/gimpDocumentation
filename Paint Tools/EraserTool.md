@@ -8,8 +8,8 @@
 
 ## 2. Choose the Eraser Tool:
 
-- Click on the ![EraserTool.PNG](../images/EraserTool.PNG) *Eraser Tool*.
-- Alternatively, press the shortcut key `Shift + E` to quickly select the ![EraserTool.PNG](../images/EraserTool.PNG) *Eraser Tool*.
+- Click on the ![EraserTool.png](../images/erasertool.png) *Eraser Tool*.
+- Alternatively, press the shortcut key `Shift + E` to quickly select the ![EraserTool.png](../images/erasertool.png) *Eraser Tool*.
 ![Selecting Eraser Tool](../images/EraserToolSelection.png)
 
 ## 3. Configure the Eraser Options:

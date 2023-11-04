@@ -10,11 +10,11 @@ The ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* is a paint t
 
 The *Airbrush Tool* may be activated by simply pressing `A`. It can also be accessed from the toolbox by left-clicking the airbrush icon.
 
-![airbrushicon.PNG](../images/airbrushicon.PNG)
+![airbrushicon.png](../images/airbrushicon.png)
 
 If the airbrush icon is not displayed in the toolbox, then a tool in the same family will be. Below are the tools in the same tool family as *Airbrush Tool*. One of these tools will be displayed in the toolbox; right-clicking it and then selecting ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* will activate the *Airbrush Tool*.
 
-![airbrushtoolfamily.PNG](../images/airbrushtoolfamily.PNG)
+![airbrushtoolfamily.png](../images/airbrushtoolfamily.png)
 
 ## Basic Usage
 
@@ -22,7 +22,7 @@ Start by holding down your left mouse button, and moving your cursor to paint wi
 
 Below, the image on the left shows a line drawn slowly with the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool*, while the image on the right shows a similar line drawn quickly.
 
-![slowlydrawnline.PNG](../images/slowlydrawnline.PNG) ![quicklydrawnline.PNG](../images/quicklydrawnline.PNG)
+![slowlydrawnline.png](../images/slowlydrawnline.png) ![quicklydrawnline.png](../images/quicklydrawnline.png)
 
 ## Tool Options
 
@@ -34,13 +34,13 @@ The first option in the tool options dialogue for the ![AirbrushTool.png](../ima
 
 Below, the dot on the left was created by holding down the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* using an opacity of 100, while the dot on the right was made using an opacity of 50.
 
-![dots drawn using the airbrush tool showing opacity](../images/airbrushopacity.PNG)
+![dots drawn using the airbrush tool showing opacity](../images/airbrushopacity.png)
 
 ## Brushes
 
 The second option in the tool options dialogue for the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* is labelled brushes. There will be an icon with the brush currently selected. Clicking this icon reveals all the brushes that can be used with the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool*. Changing the brush will change the shape of strokes created using the tool. There are dozens of different brush presets, so you are encouraged to try for yourself which one will work best for what you're trying to do.
 
-![airbrush brush options](../images/brushoptions.PNG)
+![airbrush brush options](../images/brushoptions.png)
 
 ## Size 
 
@@ -52,13 +52,13 @@ In the tool options dialogue, there is a slider labelled `Aspect ratio`, and one
 
 Below, on the left, the letter R is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with an aspect ratio of 1.00, while on the right, the same letter is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with an aspect ratio of -1.00.
 
-![letters drawn using the airbrush tool showing aspect ratio](../images/airbrushaspectratio.PNG)
+![letters drawn using the airbrush tool showing aspect ratio](../images/airbrushaspectratio.png)
 
 Changing `Angle` rotates the brush, allowing you to create brushes that are longer along some dimension other than up-down or left-right. The angle is measured in degrees, with 0 degrees being up, and positive angles rotating the brush clockwise.
 
 Below, the letter R is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with an angle of 0, 45, and 90 degrees.
 
-![letters drawn using the airbrush tool showing angle](../images/airbrushangle.PNG)
+![letters drawn using the airbrush tool showing angle](../images/airbrushangle.png)
 
 ## Spacing
 
@@ -66,7 +66,7 @@ In the tool options dialogue for the ![AirbrushTool.png](../images/AirbrushTool.
 
 Below, the line on the left is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with a spacing of 10, while the line on the right is drawn with a spacing of 100.
 
-![lines drawn using the airbrush tool showing spacing](../images/airbrushspacing.PNG)
+![lines drawn using the airbrush tool showing spacing](../images/airbrushspacing.png)
 
 
 ## Hardness
@@ -75,7 +75,7 @@ In the tool options dialogue, there is a slider labelled `Hardness`. A hardness 
 
 Below, on the left, a dot is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with a hardness of 100. The dot on the right is drawn with a brush with a hardness of 50.
 
-![dots drawn using the airbrush tool showing hardness](../images/airbrushhardness.PNG)
+![dots drawn using the airbrush tool showing hardness](../images/airbrushhardness.png)
 
 ## Force
 
@@ -83,7 +83,7 @@ In the tool options dialogue, there is a slider labelled `Force`. Changing it wi
 
 Below, the top line is drawn using a brush with force set to 20. The bottom line is drawn at about the same speed, but with force set to 100 using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool*.
 
-![lines drawn using the airbrush tool showing force](../images/airbrushforce.PNG)
+![lines drawn using the airbrush tool showing force](../images/airbrushforce.png)
 
 ## Dynamics
 
@@ -91,4 +91,4 @@ In the tool options dialogue, there is a section called `Dynamics`. This allows 
 
 Below, the top line is drawn using a brush with no dynamics. The bottom line is drawn using the ![AirbrushTool.png](../images/AirbrushTool.png) *Airbrush Tool* with the `Basic Dynamics` preset applied. Notice that the stroke becomes thinner at points drawn more quickly. The result is that the brush functions like a real paintbrush, which may be useful in creating certain effects.
 
-![lines drawn using the airbrush tool showing dynamics](../images/airbrushdynamics.PNG)
+![lines drawn using the airbrush tool showing dynamics](../images/airbrushdynamics.png)

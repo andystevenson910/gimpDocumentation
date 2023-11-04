@@ -4,14 +4,14 @@
 
 ## Overview
 
-The ![](../images/FreeSelectTool.PNG) *Free Select Tool* is used to create selections of irregular shape. In GIMP, a selection is a bounded region that limits where certain tools can be applied. With the ![](../images/FreeSelectTool.PNG) *Free Select Tool*, selections can be formed by drawing an outline, or by placing points to form connected line segments, or by a combination of both. 
+The ![](../images/freeselecttool.png) *free select tool* is used to create selections of irregular shape. in gimp, a selection is a bounded region that limits where certain tools can be applied. with the ![](../images/freeselecttool.png) *Free Select Tool*, selections can be formed by drawing an outline, or by placing points to form connected line segments, or by a combination of both. 
 
 
 ## Activating the Free Select Tool
 
-The ![](../images/FreeSelectTool.PNG) *Free Select Tool* can be activated by pressing `F` on your keyboard, or by finding the toolbox and left-clicking the lasso icon.
+The ![](../images/freeselecttool.png) *Free Select Tool* can be activated by pressing `F` on your keyboard, or by finding the toolbox and left-clicking the lasso icon.
 
-![toolbox with freeselect selected](../images/lassoicon.PNG)
+![toolbox with freeselect selected](../images/lassoicon.png)
 
 If the tool bar is not in your window, it can be displayed by navigating to `Windows>Toolbox`, or by using `Ctrl+B`. 
 
@@ -19,32 +19,32 @@ If the tool bar is not in your window, it can be displayed by navigating to `Win
 
 To begin creating a selection, left-click anywhere on the canvas. Letting go of your left mouse button and clicking another point on the canvas will form a straight line segment.
 
-![line segment](../images/linesegment.PNG)
+![line segment](../images/linesegment.png)
 
  Holding down your left mouse button and dragging your cursor lets you draw a segment in any shape. 
 
-![drawn line segment](../images/drawnsegment.PNG)
+![drawn line segment](../images/drawnsegment.png)
 
 You can keep placing points and drawing lines to form as many consecutive segments as needed. Both drawn and straight segments may be used within the same selection.
 
-![shape using both drawn and straight line segments](../images/straightanddrawnsegments.PNG)
+![shape using both drawn and straight line segments](../images/straightanddrawnsegments.png)
 
 Notice that the points forming the edges of segments in the selection being drawn are marked with circles. While creating a selection, the position of any of these points can be moved by clicking and dragging the circle marking it. This will apply transformations to the end of any segments connected to the point.
 
-![the same shape, after editing the position of one of the points in the selection path](../images/transformedsegments.PNG)
+![the same shape, after editing the position of one of the points in the selection path](../images/transformedsegments.png)
 
 To complete a selection, click on the point that you started the selection at, then press `F` or select a different tool.
 
-![hovering on original point](../images/hoveronoriginalpoint.PNG)
-![completed selection](../images/complete%20selection.PNG)
+![hovering on original point](../images/hoveronoriginalpoint.png)
+![completed selection](../images/complete%20selection.png)
 
 The completed selection will be marked by a dotted line, in the shape of the path you created. As you can see, the selection specifies the area in which the effects of tools apply; for example the pencil tool as shown below:
 
-![coloring within a selection](../images/coloring%20in%20selection.PNG)
+![coloring within a selection](../images/coloring%20in%20selection.png)
 
 ## Tool Options
 
-The tool options for the ![](../images/FreeSelectTool.PNG) *Free Select Tool* allow you to change the functionality of the tool in useful ways. The tool options dialogue can be accessed by navigating to `Windows>Dockable Dialogues>Tool Options`. 
+The tool options for the ![](../images/freeselecttool.png) *Free Select Tool* allow you to change the functionality of the tool in useful ways. The tool options dialogue can be accessed by navigating to `Windows>Dockable Dialogues>Tool Options`. 
 
 ## Selection Modes
 
@@ -59,15 +59,15 @@ In the tool options dialogue, you can select from four different selection modes
 
 `Add to the current selection` will include all previous area selected in the new selection. Note that the two regions don't necessarily have to be connected.
 
-![adding to a selection](../images/addtoselection1.PNG) ![adding to a selection](../images/addtoselection2.PNG)
+![adding to a selection](../images/addtoselection1.png) ![adding to a selection](../images/addtoselection2.png)
 
 `Subtract from current selection` will keep all previous area selected, except for the area that lies inside the new selected region.
 
-![subtracting from a selection](../images/subtractfromselection1.PNG) ![subtracting from a selection](../images/subtractfromselection2.PNG)
+![subtracting from a selection](../images/subtractfromselection1.png) ![subtracting from a selection](../images/subtractfromselection2.png)
 
 `Intersect with current selection` will keep any previous area selected that lies within the new selected region.
 
-![intersecting with a selection](../images/intersectselection1.PNG) ![intersecting with a selection](../images/intersectselection2.PNG)
+![intersecting with a selection](../images/intersectselection1.png) ![intersecting with a selection](../images/intersectselection2.png)
 
 
 ## Anti-Aliasing
@@ -76,7 +76,7 @@ In the tool options dialogue, you'll notice an checkbox labelled `Antialiasing`.
 
 Below, the left image shows a shape filled in using a selection without anti-aliasing, and the right image shows the same shape filled in using a selection with anti-aliasing.
 
-![shape without anti-aliasing](../images/anti_aliasing_off.PNG) ![shape with anti-aliasing](../images/anti_aliasing_on.PNG)
+![shape without anti-aliasing](../images/anti_aliasing_off.png) ![shape with anti-aliasing](../images/anti_aliasing_on.png)
 
 
 While having anti-aliasing turned on will be more useful in most situations, turning it off can also be useful if you're trying to make changes with pixel-level precision.
@@ -90,7 +90,7 @@ Feathering the edges of a selection also rounds any sharp points made on the sel
 
 Below, the left image shows a shape filled in using a selection with `Feather edges` turned on, and a radius of 5 pixels. The right image shows the same shape filled in using a selection with a radius of 15 pixels.
 
-![shape with 5px feathering](../images/feather5px.PNG) ![shape with 15px feathering](../images/feather15px.PNG)
+![shape with 5px feathering](../images/feather5px.png) ![shape with 15px feathering](../images/feather15px.png)
 
 
 

@@ -9,9 +9,9 @@
 
 GIMP provides a variety of transform tools to help you manipulate the shape, size, and orientation of your image or selected areas. The tools we provide documentation for are:
 
-- ![MoveTool.PNG](../images/MoveTool.PNG) [**Move Tool**](MoveTool.md): Moves layers, selections, paths or guides.
-- ![CropTool.PNG](../images/CropTool.PNG) [**Crop Tool**](CropTool.md): Crops/clips an image.
-- ![ScaleTool.PNG](../images/ScaleTool.PNG) [**Scale Tool**](ScaleTool.md): Resizes layers, selections or paths.
+- ![MoveTool.png](../images/movetool.png) [**Move Tool**](MoveTool.md): Moves layers, selections, paths or guides.
+- ![CropTool.png](../images/croptool.png) [**Crop Tool**](CropTool.md): Crops/clips an image.
+- ![ScaleTool.png](../images/scaletool.png) [**Scale Tool**](ScaleTool.md): Resizes layers, selections or paths.
 
 
 ## Further Reading
