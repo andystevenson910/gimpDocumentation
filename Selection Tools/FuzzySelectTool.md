@@ -3,9 +3,11 @@
 *Written by Zachary Harrison*
 
 The ![FuzzySelectTool.png](../images/FuzzySelectTool.png) ![FuzzySelectTool.png](../images/FuzzySelectTool.png) *Fuzzy Select Tool* is a powerful tool that allows you to select an area of your image based on its color. 
+![FuzzySelectTool.png](../images/FuzzySelectTool.png)![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 
 ![FuzzySelectToolOverview](../images/FuzzySelectToolOverview.png)
 
+![FuzzySelectTool.png](../images/FuzzySelectTool.png)![FuzzySelectTool.png](../images/FuzzySelectTool.png)
 Here's how to use it:
 
 1. Open your image in GIMP.
